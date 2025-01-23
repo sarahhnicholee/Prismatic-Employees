@@ -1,0 +1,7 @@
+@host=http://localhost:3000
+
+GET {{host}}/employees
+
+GET {{host}}/employees/3
+
+GET {{host}}/employees/18
